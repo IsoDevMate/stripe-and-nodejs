@@ -1,0 +1,32 @@
+{
+    "music":[
+        {
+            "id":"1",
+            "name":"album 1",
+            "price":"1299"
+        },
+        {
+            "id":"1",
+            "name":"album 2",
+            "price":"3499"
+        }
+ 
+ 
+    ],
+    "merch":[
+        
+             {
+            "id":"1",
+            "name":"tshirt",
+            "price":"349"
+        },
+        {
+  
+            "id":"1",
+            "name":"coffeecup",
+            "price":"34"
+        }
+
+
+    ]
+}
